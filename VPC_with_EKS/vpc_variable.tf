@@ -3,7 +3,7 @@ variable "location" {
 }
 
 variable "os_name" {
-    default = "ami-09ba48996007c8b50"
+    default = "ami-0d7a109bf30624c99"
 }
 
 variable "key" {
